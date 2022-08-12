@@ -1,0 +1,1 @@
+MONGO_URL = mongodb+srv://thang09:<password>@thang3435.yzxkyzt.mongodb.net/?retryWrites=true&w=majority
