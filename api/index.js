@@ -17,7 +17,7 @@ app.use(cors());
 
 
 mongoose
-  .connect("mongodb+srv://thang09:V3g.pJZdjAbSupt@thang3435.yzxkyzt.mongodb.net/?retryWrites=true&w=majority", {
+  .connect("ngodb+srv://thang09:V3g.pJZdjAbSupt@thang3435.yzxkyzt.mongodb.net/?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
